@@ -11,7 +11,8 @@ color:rgb(246, 178, 241)
 .p1 {
 text-align: center;
 font-size: 20px;
-color:rgb(0, 0, 0)
+color:rgb(0, 0, 0) ; 
+font-family: cursive;
 }
 
 .p2 {
