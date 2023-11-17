@@ -22,7 +22,9 @@ color:lightgrey
 
 #img1{
     display:block;
-    margin: 0 auto;}
+    margin: 0 auto;
+    width:50%
+}
 
     #titulo2 {
 text-align: center;
