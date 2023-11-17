@@ -1,59 +1,60 @@
 body {
-background: rgb(186, 55, 55);
+    background: rgb(186, 55, 55);
 }
 
 #titulo1 {
-text-align: center;
-font-size: 50px;
-color:rgb(246, 178, 241)
+    text-align: center;
+    font-size: 50px;
+    color: rgb(246, 178, 241)
 }
 
 .p1 {
-text-align: center;
-font-size: 20px;
-color:rgb(0, 0, 0) ; 
-font-family:sans-serif;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family:cursive;
 }
 
 .p2 {
     text-align: center;
     font-size: 20px;
-    color:rgb(0, 0, 0)
+    color: rgb(0, 0, 0)
 }
 
-#img1{
-    display:block;
+#img1 {
+    display: block;
     margin: 0 auto;
-    width:50%
+    width: 50%
 }
 
-    #titulo2 {
-text-align: center;
-font-size: 30px;
-color:rgb(232, 149, 253)
- }
- .u1{
+#titulo2 {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(232, 149, 253)
+}
+
+.u1 {
     display: inline-block;
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
     font-size: 20px;
- }
+}
 
- #img2{
+#img2 {
     width: 50%;
- }
+}
 
- header{
+header {
     text-align: center;
     font-size: 50px;
-    color:rgb(148, 50, 148)
- }
+    color: rgb(148, 50, 148)
+}
 
- .principal{
-    background:rgb(202, 159, 241)
- }
+.principal {
+    background: rgb(202, 159, 241)
+}
 
- .beneficios{
+.beneficios {
     background: rgb(0, 0, 0);
- }
+}
