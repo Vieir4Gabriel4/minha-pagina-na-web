@@ -29,7 +29,7 @@ color:lightgrey
     #titulo2 {
 text-align: center;
 font-size: 30px;
-color:mediumorchid
+color:rgb(232, 149, 253)
  }
  .u1{
     display: inline-block;
@@ -50,9 +50,9 @@ color:mediumorchid
  }
 
  .principal{
-    background:blueviolet
+    background:rgb(202, 159, 241)
  }
 
  .beneficios{
-    background: rgb(230, 98, 102);
+    background: rgb(0, 0, 0);
  }
