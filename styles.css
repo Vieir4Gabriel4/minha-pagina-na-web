@@ -1,5 +1,5 @@
 body {
-background: indianred;
+background: rgb(255, 59, 59);
 }
 
 #titulo1 {
@@ -52,5 +52,5 @@ color:mediumorchid
  }
 
  .beneficios{
-    background: darkviolet;
+    background: rgb(230, 98, 102);
  }
